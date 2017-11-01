@@ -1,0 +1,29 @@
+{
+  "name": "clip",
+  "version": "1.0.0",
+  "description": "Copy Here Paste There",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshtomar6/clip.git"
+  },
+  "keywords": [
+    "copy",
+    "paste",
+    "webapp"
+  ],
+  "author": "harsh tomar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harshtomar6/clip/issues"
+  },
+  "homepage": "https://github.com/harshtomar6/clip#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.5"
+  }
+}
